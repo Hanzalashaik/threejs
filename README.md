@@ -31,7 +31,7 @@ npm run dev
 
 ## Screenshot
 
-![Image](https://github.com/Hanzalashaik/project-management-mern/blob/main/client/public/login%20.png "Image")
+![Image](https://github.com/Hanzalashaik/threejs/blob/main/assets/solarsystem.png "Image")
 
 ## 🌍 Features
 
