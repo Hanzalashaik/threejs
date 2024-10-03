@@ -10,11 +10,11 @@ This is a Three.js project that simulates a solar system, allowing users to expl
 git clone https://github.com/Hanzalashaik/threejs
 ```
 
-2. Navigate to the client folder:
+2. Navigate to the client folder
 
 ```bash
 cd my-project
-````
+```
 
 3. Install the dependencies:
 
@@ -41,3 +41,4 @@ npm run dev
 ## 🧑‍💻 Contributing
 
 Feel free to fork the repository and submit a pull request. Any contributions or suggestions to improve the project are welcome!
+````
