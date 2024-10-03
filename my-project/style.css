@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Prevent scrollbars */
+  width: 100%;
+  height: 100%;
+}
+
+canvas.threejs {
+  display: block; /* Remove the inline-block whitespace */
+  width: 100vw; /* Full width of the viewport */
+  height: 100vh; /* Full height of the viewport */
+}
