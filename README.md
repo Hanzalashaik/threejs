@@ -6,7 +6,7 @@ This is a Three.js project that simulates a solar system, allowing users to expl
 
 1. Clone the Repository
 
-````bash
+```bash
 git clone https://github.com/Hanzalashaik/threejs
 ```
 
@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
-## Screenshot
+Screenshot
 
 ![Image](https://github.com/Hanzalashaik/threejs/blob/main/assets/solarsystem.png "Image")
 
@@ -41,4 +41,7 @@ npm run dev
 ## 🧑‍💻 Contributing
 
 Feel free to fork the repository and submit a pull request. Any contributions or suggestions to improve the project are welcome!
-````
+
+```
+
+```
