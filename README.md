@@ -41,7 +41,3 @@ Screenshot
 ## 🧑‍💻 Contributing
 
 Feel free to fork the repository and submit a pull request. Any contributions or suggestions to improve the project are welcome!
-
-```
-
-```
