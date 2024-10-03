@@ -140,7 +140,8 @@ const planetMeshes = planets.map((planet) => {
 
 // Add lighting
 const pointLight = new THREE.PointLight(0xffffff, 10);
-const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
+const directionalLight = new THREE.DirectionalLight(0xffffff, 3);
+directionalLight.position.set(10, 0, 0);
 scene.add(directionalLight);
 scene.add(pointLight);
 
