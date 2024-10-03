@@ -19,7 +19,7 @@ console.log(mesh.position.length());
 mesh.position.set(0.5, -0.5, 0);
 
 //scale
-mesh.scale.set(2, 0.5, 0.5);
+mesh.scale.set(5, 0.5, 0.5);
 
 //rotation
 // mesh.rotation.reorder("YXZ");
@@ -38,7 +38,7 @@ const sizes = {
  */
 const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height);
 camera.position.z = 3;
-scene.add(camera);
+// scene.add(camera);
 
 console.log(mesh.position.distanceTo(camera.position));
 //lookat
