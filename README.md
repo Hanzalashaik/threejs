@@ -4,26 +4,25 @@ This is a Three.js project that simulates a solar system, allowing users to expl
 
 ## 🚀 Getting Started
 
-### Clone the Repository
+1. Clone the Repository
 
 ````bash
 git clone https://github.com/Hanzalashaik/threejs
+```
 
-## Client Setup
-
-1. Navigate to the client folder:
+2. Navigate to the client folder:
 
 ```bash
 cd my-project
 ````
 
-2. Install the dependencies:
+3. Install the dependencies:
 
 ```bash
 npm install
 ```
 
-3. Run the Project:
+4. Run the Project:
 
 ```bash
 npm run dev
